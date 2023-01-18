@@ -1,0 +1,6 @@
+requests
+sanpy
+pipenv
+coloredlogs
+san
+schedule
